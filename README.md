@@ -83,20 +83,70 @@ zhengda-market-research/
 
 ## 安装
 
-将**整个技能文件夹**放入所用 Agent 的技能目录，保留 `SKILL.md`、`references/`、`agents/` 与 `scripts/` 的相对位置。只复制 `SKILL.md` 会缺少阶段指导文件。
+本仓库根目录就是完整技能目录，`SKILL.md` 位于根目录。安装时保留 `references/`、`agents/` 和 `scripts/`，不要只下载 `SKILL.md`。
 
-### Codex
+### 安装前准备
 
-常见用户级安装位置：
+- 本仓库为私有仓库，安装者须使用有访问权限的 GitHub 账号；团队成员需先获得仓库访问权限。
+- 命令行安装需要 Git，并已配置 GitHub HTTPS 身份验证。浏览器或 ChatGPT 中登录 GitHub，不等于本机 Git 已登录。
+- 如使用 GitHub CLI，可先运行 `gh auth login`，选择 GitHub.com、HTTPS 并按提示登录，再运行 `gh auth setup-git`；已有可用 Git 凭据时无需重复设置。
+
+### Windows（PowerShell）
+
+```powershell
+New-Item -ItemType Directory -Force -Path "$env:USERPROFILE\.agents\skills" | Out-Null
+git clone https://github.com/YifeiWang2000/zhengda-market-research.git "$env:USERPROFILE\.agents\skills\zhengda-market-research"
+```
+
+### macOS / Linux（终端）
+
+```bash
+mkdir -p "$HOME/.agents/skills"
+git clone https://github.com/YifeiWang2000/zhengda-market-research.git "$HOME/.agents/skills/zhengda-market-research"
+```
+
+上述命令采用 [Codex 官方文档](https://developers.openai.com/codex/skills/)列出的用户级技能目录 `~/.agents/skills/`。如果已经在其他被当前客户端识别的目录（例如 `~/.codex/skills/`）安装了本技能，请更新原有副本，避免重复安装同名技能。
+
+### 不使用命令行
+
+1. 使用有权限的账号打开[本仓库](https://github.com/YifeiWang2000/zhengda-market-research)，点击 **Code → Download ZIP**。
+2. 解压后，将包含 `SKILL.md` 的文件夹重命名为 `zhengda-market-research`。
+3. 将整个文件夹放入下列位置；目录不存在时先创建：
 
 | 系统 | 技能目录 |
 | --- | --- |
-| Windows | `%USERPROFILE%\.codex\skills\zhengda-market-research\` |
-| macOS / Linux | `~/.codex/skills/zhengda-market-research/` |
+| Windows | `%USERPROFILE%\.agents\skills\zhengda-market-research\` |
+| macOS / Linux | `~/.agents/skills/zhengda-market-research/` |
 
-安装后的入口应为上述目录中的 `SKILL.md`。重新启动或刷新 Agent 后，检查技能列表是否出现 `zhengda-market-research`。
+确保 `SKILL.md` 直接位于上述技能目录中，不要多套一层 `zhengda-market-research-main` 文件夹。
 
-其他支持 Agent Skills 的工具，请按其技能加载方式安装；文件生成、统计分析与联网检索能力取决于实际运行环境。
+### 确认安装
+
+Codex 会自动检测技能变化；若技能未出现，重启 Codex。随后在技能选择器中找到 `zhengda-market-research`，或发送：
+
+```text
+请使用 zhengda-market-research，先了解我们当前的正大杯参赛进度。
+```
+
+其他支持 Agent Skills 的工具，请按其技能加载方式放置完整文件夹。文件生成、统计分析与联网检索能力取决于实际运行环境。
+
+### 更新已安装的技能
+
+通过 Git 克隆安装的用户，可在对应系统中运行：
+
+Windows（PowerShell）：
+
+```powershell
+git -C "$env:USERPROFILE\.agents\skills\zhengda-market-research" pull --ff-only
+```
+
+macOS / Linux：
+
+```bash
+git -C "$HOME/.agents/skills/zhengda-market-research" pull --ff-only
+```
+
+如果安装在其他目录，请替换为实际路径。目标文件夹已存在时不要再次克隆；有本地修改或更新冲突时先保留修改再处理，不要直接覆盖。ZIP 安装的用户重新下载并备份旧版本后替换。团队项目数据应保存在独立的 `zhengda-project/` 中。
 
 ## 使用
 
