@@ -1,0 +1,1523 @@
+[
+  {
+    "id": "R001",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/2025国一正文-革物智之，智之而后能静(2).pdf",
+    "bytes": 4238234,
+    "sha256": "e2bce5a9397dd2a29ee11395de5d4d354ee758a4e3b3cb67e1e32ece5483c11f",
+    "award_status": "filename_claim_unverified",
+    "pages": 65,
+    "review_status": "native_text_read_partial_visual"
+  },
+  {
+    "id": "R002",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/2025国三-新质新赋能，低空催业生——基于UTAUT-II理论的“六城”大学生对低空行业认知现状及有机嵌入意愿调研.pdf",
+    "bytes": 4327053,
+    "sha256": "29e1bdb87b92c3a1597f0c82cc0a494279483564e6803e1298afd5600ce2d782",
+    "award_status": "filename_claim_unverified",
+    "pages": 49,
+    "review_status": "native_text_read_partial_visual"
+  },
+  {
+    "id": "R003",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/【2025国一】创意水饺新品方案设计与可行性研究报告正文.pdf",
+    "bytes": 5331438,
+    "sha256": "809607c61a14cef6cb56846031a678d0ab3f138abaa46d94e8a81c7fca801851",
+    "award_status": "filename_claim_unverified",
+    "pages": 65,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R004",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/【2025国一】品牌建设探究与针对上海市宝妈的精准营销策略.pdf",
+    "bytes": 4793859,
+    "sha256": "eacbff10a29654ddb38fbd2a63d1d421a52fdbaaf9bf07ef8f80d591845d5a8a",
+    "award_status": "filename_claim_unverified",
+    "pages": 64,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R005",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/【2025国一】山东省鸡肉丸市场 探析品牌健康.pdf",
+    "bytes": 8552864,
+    "sha256": "699dd051171582ac95d6de391f55b9e4ad373625617e7989496ea4a6696a048e",
+    "award_status": "filename_claim_unverified",
+    "pages": 65,
+    "review_status": "native_text_read_partial_visual"
+  },
+  {
+    "id": "R006",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/【2025国一】预制菜新产品市场调查研究——基于产品-消费者-行业的多维分析.pdf",
+    "bytes": 7616714,
+    "sha256": "6c8cb1ddbe32027eb15ca5028f3d68b61332643d40825d6effff57752fbbdc5f",
+    "award_status": "filename_claim_unverified",
+    "pages": 65,
+    "review_status": "native_text_read_partial_visual"
+  },
+  {
+    "id": "R007",
+    "library": "reports",
+    "relative_path": "12、2025年获奖作品7篇/【2025国一】预包装咖啡消费特征、产品定位和营销渠道新机遇 报告.pdf",
+    "bytes": 6876760,
+    "sha256": "c4671a1a3f59b67900133e521dbab12e570973e4c21c42ae30b0cd3168e640d6",
+    "award_status": "filename_claim_unverified",
+    "pages": 62,
+    "review_status": "native_text_read_partial_visual"
+  },
+  {
+    "id": "R008",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】“一带一路”战略下，小语种有望成为香饽饽？.pdf",
+    "bytes": 2210947,
+    "sha256": "1a4546cce9b4467941d3994c82460cf6fc3066bec819b443a06ff533c2fc06d8",
+    "award_status": "filename_claim_unverified",
+    "pages": 77,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R009",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】“郁见美好”—关于成都市大学生抑郁症调查研究.pdf",
+    "bytes": 2991700,
+    "sha256": "27e96f888fda5b55d4db082c37b87af9cd72976efe3d0d75bc8af5e6d5e8fe08",
+    "award_status": "filename_claim_unverified",
+    "pages": 62,
+    "review_status": "native_text_pages_1_36_only"
+  },
+  {
+    "id": "R010",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】健身饮食类app市场调查报告.pdf",
+    "bytes": 4249959,
+    "sha256": "da9af5e62ca792f3024c42f692fffac8a5364e7b8d6397531f730dbd20e91bbd",
+    "award_status": "filename_claim_unverified",
+    "pages": 109,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R011",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】成都市蜀绣文创市场研究.docx",
+    "bytes": 2594668,
+    "sha256": "c3a677c089376ec707eae0f830e774b539c817cb1108c41d461cd1f66739a790",
+    "award_status": "filename_claim_unverified",
+    "review_status": "docx_text_read_images_incomplete"
+  },
+  {
+    "id": "R012",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】成都市蜀绣文创市场研究.pdf",
+    "bytes": 2301009,
+    "sha256": "a132f83c02fdd14977a3d328c5ff6f684c84e47e00d8c844b968fe7c501aecdd",
+    "award_status": "filename_claim_unverified",
+    "pages": 85,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R013",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】李宁“潮”前走，国货正当时——李宁产品消费现状及前景分析.pdf.pdf",
+    "bytes": 2325688,
+    "sha256": "2d1eb95f7a17f83f455ccfa5a31e90131e76cb851b97e1b9d88fc7e2584cb1b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 97,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R014",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】爱情“三十六计”——对大学开设恋爱课的探究与分析.pdf",
+    "bytes": 6153964,
+    "sha256": "77d927592e774a0a481b0699665adb88cf19dfde448341f44e3f0d9dff883f89",
+    "award_status": "filename_claim_unverified",
+    "pages": 107,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R015",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】破解“墓地围城”，让生命回归自然——成都市生态殡葬消费者需求的调研与分析.pdf",
+    "bytes": 5947971,
+    "sha256": "df81b850b8dba20c40fe4fc69fd18ef520b16bb583d3d2bd3998d5381b8cf2f6",
+    "award_status": "filename_claim_unverified",
+    "pages": 124,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R016",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】茶馆“相”遇妙，沧海一“声”笑.pdf",
+    "bytes": 2638481,
+    "sha256": "41d3d154f6fba795a991a5b77469798441cb1def942257571967428786ccf861",
+    "award_status": "filename_claim_unverified",
+    "pages": 86,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R017",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国一】食品领“鲜”，美味相约——成都市社区生鲜店消费分析及市场挖掘.pdf",
+    "bytes": 7768729,
+    "sha256": "c6d988bae00e62b3cf2cbdddd503231ae3927ffa938f9b6ec4989a898faf25cb",
+    "award_status": "filename_claim_unverified",
+    "pages": 100,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R018",
+    "library": "reports",
+    "relative_path": "2020新（10篇）/【20国三】景点变身记之从“网红”到“永红”De 距离——以重庆网红景点为例.pdf",
+    "bytes": 3683448,
+    "sha256": "f27d2ae0287b85eaff3df922278e3310b839648e88d1014ea8bfd99357315486",
+    "award_status": "filename_claim_unverified",
+    "pages": 65,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R019",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】“虽骂但买”，超前点播成常态？.pdf",
+    "bytes": 2007500,
+    "sha256": "58c45978ea3f0b26db8a975f13e9e91447acb7ff446f3102c46027e46c9374c0",
+    "award_status": "filename_claim_unverified",
+    "pages": 53,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R020",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】中医药品牌价值及其影响因素研究+报告.pdf",
+    "bytes": 2212932,
+    "sha256": "1791d3f7a0ab35713ee5e65ce37d2646b432a98cdfb1ab68573d901dc7378241",
+    "award_status": "filename_claim_unverified",
+    "pages": 70,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R021",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】中老年人互联网生活调查研究——以保定市为例调查报告.pdf",
+    "bytes": 3900697,
+    "sha256": "f5604f9eb7632846cf5f8530c9bb760843bd9f30ce5e46c3ac0ef5bcc91f2124",
+    "award_status": "filename_claim_unverified",
+    "pages": 68,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R022",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】信息化时代下的中老年人对互联网APP的使用现状及满意度调查（报告）.pdf",
+    "bytes": 2462083,
+    "sha256": "04cded5e5211e330687912c89590f56932da25939f8b1bf407f43d74a6c45938",
+    "award_status": "filename_claim_unverified",
+    "pages": 69,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R023",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】儿童面霜市场的调查分析.pdf",
+    "bytes": 16466440,
+    "sha256": "e64697072ec4038d990c9ddc748ab2aa1e2b8839546923bdb39a41a209547e02",
+    "award_status": "filename_claim_unverified",
+    "pages": 118,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R024",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】关于农民对直播销售农产品使用意向影响因素的调查（以丹东市为例)+报告(1).pdf",
+    "bytes": 13185240,
+    "sha256": "5ddc26888f41afa16e38be6656c9f1234132d1b746b73340c23758ad8434e909",
+    "award_status": "filename_claim_unverified",
+    "pages": 107,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R025",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】关于呼和浩特市大学生底线思维现状的调查研究.pdf",
+    "bytes": 9511853,
+    "sha256": "f61bb1885b11b1643a3494ff2708485f870a84d0fb064daa345ac2ecfa18624e",
+    "award_status": "filename_claim_unverified",
+    "pages": 97,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R026",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】厕所.pdf",
+    "bytes": 5167433,
+    "sha256": "c4c40947e458fcd7f24ce52743b621c6ea041342dc8f6600fe727913ccdf3be1",
+    "award_status": "filename_claim_unverified",
+    "pages": 84,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R027",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】咖啡.pdf",
+    "bytes": 3252574,
+    "sha256": "d43bc5b6b58f835a436a01604c468ac71f9688cbef33e9f83aaf3959be645dd6",
+    "award_status": "filename_claim_unverified",
+    "pages": 69,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R028",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】基于北京市Z世代清洁需求的调查.pdf",
+    "bytes": 13105322,
+    "sha256": "5ee054ddc643bda89c896c98b3a42d5f5098007640927d5643c53625fd0eb812",
+    "award_status": "filename_claim_unverified",
+    "pages": 93,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R029",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】基于大学生消费偏好的校园奶茶营销策略研究.pdf",
+    "bytes": 8545920,
+    "sha256": "709c18be77412e9b86b2eb417759b9433267b5ceaf6bd3f48bee4ce265ff167d",
+    "award_status": "filename_claim_unverified",
+    "pages": 55,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R030",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】基于桃源村与新生代消费者的调查研究—报告.pdf",
+    "bytes": 3646067,
+    "sha256": "a329acc89616a1c28b25841232bbab3e755a147e0bbb6133a8b50c186d4ea49d",
+    "award_status": "filename_claim_unverified",
+    "pages": 69,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R031",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】基于福州市人口老龄化数字鸿沟影响因素分析.pdf",
+    "bytes": 13466000,
+    "sha256": "19f8573bce573d26295ac741eae7f0fa3480d039047599d011ef9d86fb27f997",
+    "award_status": "filename_claim_unverified",
+    "pages": 91,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R032",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】年轻白领保健品市场情况及用户需求调研.pdf",
+    "bytes": 15304083,
+    "sha256": "170ae4690f6e24af94ede6b0c0d8b1c4820bb75b351edfca2022aa7ad9e7358c",
+    "award_status": "filename_claim_unverified",
+    "pages": 100,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R033",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】广州市大学生群体虚拟偶像消费需求偏好调查.pdf",
+    "bytes": 3465224,
+    "sha256": "20c48f8919af44a84ee3bb3954799d62f6e0f364958a4e44f3441c0af064a3f5",
+    "award_status": "filename_claim_unverified",
+    "pages": 67,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R034",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】成都市“临期食品”的消费者购买行为分析及发展方向创新探究.pdf",
+    "bytes": 5562284,
+    "sha256": "62655db05eb283cad1f63a104a9273b2ff61c4c09b8b3dab0f29dc7c634121f9",
+    "award_status": "filename_claim_unverified",
+    "pages": 105,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R035",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】手机app在我国大学生自我管理中的应用现状和前景分析.pdf",
+    "bytes": 19288246,
+    "sha256": "50435f86a1d7ddaf094c911640be75c377768c6282eabb6457064a976b61ef75",
+    "award_status": "filename_claim_unverified",
+    "pages": 133,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R036",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】武汉市大学生防脱发洗发水使用现状与发展策略研究.pdf",
+    "bytes": 10612343,
+    "sha256": "769da112a0b877ccc76f331028339c61b0e4a8cc6158cb6894652ec5cf66186d",
+    "award_status": "filename_claim_unverified",
+    "pages": 73,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R037",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】河南博物院考古盲盒系列产品消费与市场前景分析.pdf",
+    "bytes": 3182610,
+    "sha256": "6a4b6037a33afebc7c6ca0ec1dcff1b4458957cf93cca9e6a6d1df9394b64a6c",
+    "award_status": "filename_claim_unverified",
+    "pages": 72,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R038",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】灯火阑珊处，古老川剧焕青春究.pdf",
+    "bytes": 5577916,
+    "sha256": "e3c6784cc0519c7d9644f110078d6df4ef6c1aee46cd3fd04772f909a02755db",
+    "award_status": "filename_claim_unverified",
+    "pages": 99,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R039",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】相声.pdf",
+    "bytes": 3724292,
+    "sha256": "df743b099fcc24a3618420beb61c9cb4a011862de2fec6495575b4e6dd7dc308",
+    "award_status": "filename_claim_unverified",
+    "pages": 132,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R040",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】网络视频广告的用户体验与接受意愿研究.pdf",
+    "bytes": 14867224,
+    "sha256": "6c88b61cfe32efda8a40f38abf7829d19c1dda8129a6975661034ba1bc234f99",
+    "award_status": "filename_claim_unverified",
+    "pages": 97,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R041",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】老年助餐配餐服务——南通市崇川区.pdf",
+    "bytes": 17003773,
+    "sha256": "3e66e3973f23730dade6389a86615936383c2f711e7250ec2280ea515d0b5b93",
+    "award_status": "filename_claim_unverified",
+    "pages": 96,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R042",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国一】视频围剿之战，B站如何突围报告.pdf",
+    "bytes": 2577248,
+    "sha256": "b2430e5e64c6f0b83798764c174f030b0563d5bd51bf839a976e23e4f9adc6f1",
+    "award_status": "filename_claim_unverified",
+    "pages": 56,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R043",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】京东到家使用现状及发展前景报告.pdf",
+    "bytes": 3582369,
+    "sha256": "fe48dd652bf997cf725fb0d8b2a8ede3f2d5da2b1bb91c46420a067ac6433de5",
+    "award_status": "filename_claim_unverified",
+    "pages": 98,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R044",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】基于成都地区茶馆的市场调研.pdf",
+    "bytes": 3507454,
+    "sha256": "d09748c54eb552b145306c977763df69b79b52018482bd28afb6ee11657251cc",
+    "award_status": "filename_claim_unverified",
+    "pages": 96,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R045",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】基于成都市的瓶装水市场调查.pdf",
+    "bytes": 3926571,
+    "sha256": "150ad408d650a8ca6f6bf7ccec7d7bf61327db8d32a5e584264bc83d5d58e229",
+    "award_status": "filename_claim_unverified",
+    "pages": 81,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R046",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】增强免疫力.pdf",
+    "bytes": 8460483,
+    "sha256": "44ec0ad7d1505ffdeabe4ea92b1c719fca3776ca33c0fbda7084956fff66e549",
+    "award_status": "filename_claim_unverified",
+    "pages": 128,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R047",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】幸福——基于成都市和美社区嵌入式养老模式的路径探索和对策分析.pdf",
+    "bytes": 3489441,
+    "sha256": "200a378f7b485f8d33fc14c5ea4c174eee12be829d54df83065cdabbaf5da9fd",
+    "award_status": "filename_claim_unverified",
+    "pages": 99,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R048",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】影响消费者在农贸市场使用可降解塑料袋意愿的因素探究.pdf",
+    "bytes": 14280695,
+    "sha256": "40335886ac6cc88f688a30b120159aaec736ed461f779df7e4496fcd114f5b63",
+    "award_status": "filename_claim_unverified",
+    "pages": 99,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R049",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】成都本科学生基金投资现状与风险防范调查研究.pdf",
+    "bytes": 2197010,
+    "sha256": "1479f8ce08181b98103ac05a0af75c26293bf73116891ed6b066b97bbfc856b1",
+    "award_status": "filename_claim_unverified",
+    "pages": 91,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R050",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国三】拼多多.pdf",
+    "bytes": 10610174,
+    "sha256": "05ae9fa920b80de256cc6b83f09e70cde464860b6f2117d03e3491db6947ab75",
+    "award_status": "filename_claim_unverified",
+    "pages": 126,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R051",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国二】成都市大学生偏好视角下川剧传承调查及其对策研究.pdf",
+    "bytes": 10514584,
+    "sha256": "d16eb96884ef1ca6507770f7af609a07f38628e73bacffdb8f0a2648f9c37300",
+    "award_status": "filename_claim_unverified",
+    "pages": 67,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R052",
+    "library": "reports",
+    "relative_path": "2021新（34篇）/【21国二】智在清洁，享在生活.pdf",
+    "bytes": 1714713,
+    "sha256": "780b8dd02304aeee85f32cf793c23b11eed51bfee22ae452605d5c341d60ad81",
+    "award_status": "filename_claim_unverified",
+    "pages": 64,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R053",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】健康保健产品市场情况及需求研究.pdf",
+    "bytes": 16983810,
+    "sha256": "faf0afec8ccdfbf93cd7d3639175aa595b93e9c205e873a931ab5ff755d9e8c6",
+    "award_status": "filename_claim_unverified",
+    "pages": 107,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R054",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】农户参与电商.pdf",
+    "bytes": 19970790,
+    "sha256": "df86d4c6ca9ada5abe461eab45a8b2fc9b863b2d7fe924c546d45759528264e5",
+    "award_status": "filename_claim_unverified",
+    "pages": 106,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R055",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】农村居民就医机构.pdf",
+    "bytes": 11565835,
+    "sha256": "111bbc2e88efc3e891e2faa7178e129ea0f7b7db4df523e0d789785765cf4afa",
+    "award_status": "filename_claim_unverified",
+    "pages": 68,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R056",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】千年府城，古今交融——太原文庙.pdf",
+    "bytes": 15874453,
+    "sha256": "0973c4ef910aa31cd527a4dd9d2b96cd725496a936c89f8c0df93254feadd01f",
+    "award_status": "filename_claim_unverified",
+    "pages": 86,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R057",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】南京市居民“种草”消费市场调研分析.pdf",
+    "bytes": 16761151,
+    "sha256": "a53e325b4be15897068b212fd2c915cc26e432187c84b98a235dc6d4fb452082",
+    "award_status": "filename_claim_unverified",
+    "pages": 113,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R058",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】地拥金陵势.pdf",
+    "bytes": 4507089,
+    "sha256": "992fa864bd855c05e0f95cc44eb883c9c6cfb5076a7a389ec01dbf2bcaa6cd44",
+    "award_status": "filename_claim_unverified",
+    "pages": 121,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R059",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】宠物猫医疗保险市场调查分析报告.pdf",
+    "bytes": 14563611,
+    "sha256": "94b2b8f7b90f132d64eaf9636191249de6d039644c74ce1af977a55f39607ec9",
+    "award_status": "filename_claim_unverified",
+    "pages": 90,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R060",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】富“农”不迟，从“险”开始.pdf",
+    "bytes": 8519826,
+    "sha256": "6d45f51c5c52a6fa03bcda8e6f8e37a5a403fbabba121f48da989470ed3f61b2",
+    "award_status": "filename_claim_unverified",
+    "pages": 107,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R061",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】怀旧产品购买意愿.pdf",
+    "bytes": 12724561,
+    "sha256": "01685adde4ba1d1d0ff2c97be222f80b93abbe442a3065bfd52d586fe70f9de9",
+    "award_status": "filename_claim_unverified",
+    "pages": 83,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R062",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】成熟食品品牌.pdf",
+    "bytes": 17099880,
+    "sha256": "2e679982c8fde9974ad7f309e120b325e5e941d8c4fbb417fd086f5fc46093ae",
+    "award_status": "filename_claim_unverified",
+    "pages": 118,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R063",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】昆明市大学生返乡创业意愿调查分析.pdf",
+    "bytes": 14091294,
+    "sha256": "41031965e136b719bf55e1856017f1b8062a1d721f97f60a7b4e2441ad037d67",
+    "award_status": "filename_claim_unverified",
+    "pages": 98,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R064",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】沈阳市智慧护理养老产品的使用意愿及前景的调查报告.pdf",
+    "bytes": 4514790,
+    "sha256": "d55dfe114e60e2e131bb6daf12325c68ac0f15cce4fbef54a353f5c7f6673561",
+    "award_status": "filename_claim_unverified",
+    "pages": 120,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R065",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】海洋文化.pdf",
+    "bytes": 13792735,
+    "sha256": "6c61e6b4207aef979258c5413af5ef286e33ae08f409ab9c45c158c1060c8736",
+    "award_status": "filename_claim_unverified",
+    "pages": 81,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R066",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】物奔诸户，情向客心.pdf",
+    "bytes": 5764563,
+    "sha256": "bf99d1a0291d1fda1853eb7b3c17bc6ea573854110f3fdf97a481087b1f9aaa3",
+    "award_status": "filename_claim_unverified",
+    "pages": 95,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R067",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】西安文创产品消费现状及影响因素调查研究.pdf",
+    "bytes": 14519138,
+    "sha256": "72af2a4d58f701e03c5dec85e1e67ed11a9088178ebd82f9f876acd39d636342",
+    "award_status": "filename_claim_unverified",
+    "pages": 84,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R068",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】防“脱”子未然，打赢头发保卫战.pdf",
+    "bytes": 10486799,
+    "sha256": "337a0395af984fa5d2d87626c3362d5337f704d1ffb24f9eec0d0f91e4a87715",
+    "award_status": "filename_claim_unverified",
+    "pages": 98,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R069",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国一】青年画认知现状.pdf",
+    "bytes": 14527527,
+    "sha256": "7c45df7d7de59d977d74f5d2d80cf4ad7fd9d0962761f8da4dfef3a0448c5b83",
+    "award_status": "filename_claim_unverified",
+    "pages": 94,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R070",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国三】关于“双减”后家长的教育焦虑程度及原因调查分析（以广东省为例).pdf",
+    "bytes": 2679935,
+    "sha256": "15921290348288f539189204b531814d4a8711f0bece7cc18bb8f33876be1b4a",
+    "award_status": "filename_claim_unverified",
+    "pages": 98,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R071",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国三】双管齐下降负担，减出教育新精彩：济南市义务教育阶段——学生家长对“双减”政策态度调研.pdf",
+    "bytes": 3823210,
+    "sha256": "172eba9f512ba6f22e4998d5fdd811e30802798fddc656698d9ad699d809fd9c",
+    "award_status": "filename_claim_unverified",
+    "pages": 60,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R072",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国三】景区文创产品购买意愿调查及潜在用户发掘_以武汉市为例..pdf",
+    "bytes": 2469037,
+    "sha256": "d6fb9c24f110ffe6ce28e4b31eaab03e4f03d4c12550dda42029394d96611acd",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R073",
+    "library": "reports",
+    "relative_path": "2022新（21篇）/【22国二】资本事农桑，农民更小康？一农户满意度视角下资本下乡对农村三生空间影响的实证研究.pdf",
+    "bytes": 4315653,
+    "sha256": "e5fe40c15581037e1cd2ca8c7b679208349f1eec52e26d1287d91a344fd77326",
+    "award_status": "filename_claim_unverified",
+    "pages": 39,
+    "review_status": "text_and_page_visual_reviewed_with_small_text_limits"
+  },
+  {
+    "id": "R074",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国一】文化馆.pdf",
+    "bytes": 10512875,
+    "sha256": "baef38dd6b91e22a3742abda4929d242e00194f188b1f31d4f1c242c89a73393",
+    "award_status": "filename_claim_unverified",
+    "pages": 111,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R075",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国一】深耕文旅露营进击：武汉市露营旅游消费意愿的影响因素与潜在客户挖掘研究.pdf",
+    "bytes": 5841215,
+    "sha256": "92f2d49e625fc145cc46f7c5e9cef78bd04ba8da4ef242c95a99670e15602e8e",
+    "award_status": "filename_claim_unverified",
+    "pages": 137,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R076",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】“低碳之风，惠及你我”一一武汉市碳普惠平台的发展现状及参与意愿分析.pdf",
+    "bytes": 3881458,
+    "sha256": "893de520ef237ee3e346995a8a479110840b2237a83cf880399255a76166e3ff",
+    "award_status": "filename_claim_unverified",
+    "pages": 107,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R077",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】“生命之舟，何去何从？一一基于武汉市的家庭生命教育与青年自杀意念调查研究.pdf",
+    "bytes": 3331497,
+    "sha256": "45e3cadefc4ee2299bc36ef9dfc7d64c65c7c5440b83d3e7be7a21e5a524e517",
+    "award_status": "filename_claim_unverified",
+    "pages": 77,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R078",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】微“研”大“益”：武汉市大学生微公益认知及行为调查.pdf",
+    "bytes": 4825041,
+    "sha256": "bbc92ba1c93952654aeef0f80400e8739698e2c8459cde1d078c7610e005f0d7",
+    "award_status": "filename_claim_unverified",
+    "pages": 90,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R079",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】您的银发，谁来守护？.pdf",
+    "bytes": 4575440,
+    "sha256": "8578afdaedaaff77785a1011e68a8b9287ddde535558efa31200a1370964b3d9",
+    "award_status": "filename_claim_unverified",
+    "pages": 85,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R080",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】按摩仪消费.pdf",
+    "bytes": 4833642,
+    "sha256": "2445627e2c04c19781d814d7c166f6c22e5d7e37dd25af2345865c0ae3e39dca",
+    "award_status": "filename_claim_unverified",
+    "pages": 70,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R081",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】新速食产品消费.pdf",
+    "bytes": 4713078,
+    "sha256": "e5e5c5d9b17f9706a722e2cb3558f6724f6af3a96d1def7a600e22dc268788be",
+    "award_status": "filename_claim_unverified",
+    "pages": 69,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R082",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】是我还是我们？婚恋观意愿影响.pdf",
+    "bytes": 4138906,
+    "sha256": "7064f3773b07168d96748522ea9239e29038322142a8d7f21ae358b363469f50",
+    "award_status": "filename_claim_unverified",
+    "pages": 99,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R083",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】每逢佳节倍惆怅，夺命连环催结婚.pdf",
+    "bytes": 6969240,
+    "sha256": "33d5c1cb21fec4ed076af98f8293bf1dca89efe6fae023b2e7d2037d7629d830",
+    "award_status": "filename_claim_unverified",
+    "pages": 124,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R084",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】湾湾烟波乐题多，岛岛奇景美心窝.pdf",
+    "bytes": 11079248,
+    "sha256": "bc0f5210637bc4582b07397d23d69a2ec576e2ecf2b3ecd9d69ed668c687dd8c",
+    "award_status": "filename_claim_unverified",
+    "pages": 164,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R085",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】睡眠问题调查.pdf",
+    "bytes": 1271578,
+    "sha256": "89a009279aa49d5fa4b9141e7f24542962a14673edd60351b31b9c7a29455827",
+    "award_status": "filename_claim_unverified",
+    "pages": 74,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R086",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国三】食在广州菜在增城——蔬菜购买意愿.pdf",
+    "bytes": 2293820,
+    "sha256": "d9e70d93b8df783aa3b0bcc7ef47b52dbf338e9d13c1b41eaf23bb71d00d120d",
+    "award_status": "filename_claim_unverified",
+    "pages": 68,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R087",
+    "library": "reports",
+    "relative_path": "2023新（15篇）/【23国二】“双碳”目标下对武汉市居民绿色食品消费现状及影响因素的调查研究.pdf",
+    "bytes": 6082756,
+    "sha256": "afadaff8f007d845b2a9c5f84c51ec7e1531f1b6d1ec889733102a63624cd45c",
+    "award_status": "filename_claim_unverified",
+    "pages": 104,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R088",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/17663716913141.pdf",
+    "bytes": 4651595,
+    "sha256": "b5fce7aa58d05d9ba5723c62f21bde8b2065eea2fb31392e9bc43fed268cc0f1",
+    "award_status": "filename_claim_unverified",
+    "pages": 70,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R089",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】 “轻”生活，“食”健康——关于长春市中式轻食消费偏好及其影响因素的调查分析.pdf",
+    "bytes": 4651595,
+    "sha256": "b5fce7aa58d05d9ba5723c62f21bde8b2065eea2fb31392e9bc43fed268cc0f1",
+    "award_status": "filename_claim_unverified",
+    "pages": 70,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R088"
+  },
+  {
+    "id": "R090",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】“轻”食“轻”心，慢嚼健康——武汉市轻食消费现状及其优化路径分析.pdf",
+    "bytes": 8384096,
+    "sha256": "072f37649e5857aa3937305757514711f52d9bbb914a1856f6cd48a515f381b3",
+    "award_status": "filename_claim_unverified",
+    "pages": 134,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R091",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】“预”趋所向，品“正”所好——郑州市预制菜市场及消费者研究.pdf",
+    "bytes": 7004537,
+    "sha256": "e85abbabc94859eaaf5bb4c7cdfee97c956901495c787d4c4932fb6980c03b59",
+    "award_status": "filename_claim_unverified",
+    "pages": 159,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R092",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】世遗古城处，非遗簪花焕新生——基于泉州市蟳埔簪花体验意愿及文化认知情况的研究(1).pdf",
+    "bytes": 9542614,
+    "sha256": "cead58f4d09d5c533e753b7f240b72508bff060288801cfae8ae2a1daab7b7d5",
+    "award_status": "filename_claim_unverified",
+    "pages": 138,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R093",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】世遗古城处，非遗簪花焕新生——基于泉州市蟳埔簪花体验意愿及文化认知情况的研究.pdf",
+    "bytes": 9542614,
+    "sha256": "cead58f4d09d5c533e753b7f240b72508bff060288801cfae8ae2a1daab7b7d5",
+    "award_status": "filename_claim_unverified",
+    "pages": 138,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R092"
+  },
+  {
+    "id": "R094",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国一】银发文旅产品市场现状与发展前景.pdf",
+    "bytes": 5506421,
+    "sha256": "506341a2c62d2e2ad71d05526d6b57728c06c8014d6cf7037634cd1b9376ec3e",
+    "award_status": "filename_claim_unverified",
+    "pages": 73,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R095",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】“千年底蕴，鸢都潍坊”——潍坊风筝体验式旅游可行性及发展策略探究_纯图版(1).pdf",
+    "bytes": 53171158,
+    "sha256": "0a46b6bb4cfc0d9a2c1832ca2e6da0a44a1dfc528fbc33c4cb671a5c6ef28afb",
+    "award_status": "filename_claim_unverified",
+    "pages": 91,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R096",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】“千年底蕴，鸢都潍坊”——潍坊风筝体验式旅游可行性及发展策略探究_纯图版.pdf",
+    "bytes": 53171158,
+    "sha256": "0a46b6bb4cfc0d9a2c1832ca2e6da0a44a1dfc528fbc33c4cb671a5c6ef28afb",
+    "award_status": "filename_claim_unverified",
+    "pages": 91,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R095"
+  },
+  {
+    "id": "R097",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】“认真生活，偶尔快乐”——重庆市居民对福利彩票购买意愿的市场调查研究(1).pdf",
+    "bytes": 9546874,
+    "sha256": "841fbad3af9fb533f275de092bf684624246815cf5f605cd296b8b9dbe72e6e3",
+    "award_status": "filename_claim_unverified",
+    "pages": 86,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R098",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】“认真生活，偶尔快乐”——重庆市居民对福利彩票购买意愿的市场调查研究.pdf",
+    "bytes": 9546874,
+    "sha256": "841fbad3af9fb533f275de092bf684624246815cf5f605cd296b8b9dbe72e6e3",
+    "award_status": "filename_claim_unverified",
+    "pages": 86,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R097"
+  },
+  {
+    "id": "R099",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】对“酒”当歌，“智能”几何——长三角地区酒店智能语音客服消费者接受度调查(1).pdf",
+    "bytes": 18450022,
+    "sha256": "56705c0741bbbf643b8dc5f893b3be59091699893e2b6a35f11f96700354fb89",
+    "award_status": "filename_claim_unverified",
+    "pages": 137,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R100",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】对“酒”当歌，“智能”几何——长三角地区酒店智能语音客服消费者接受度调查.pdf",
+    "bytes": 18450022,
+    "sha256": "56705c0741bbbf643b8dc5f893b3be59091699893e2b6a35f11f96700354fb89",
+    "award_status": "filename_claim_unverified",
+    "pages": 137,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R099"
+  },
+  {
+    "id": "R101",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】河口古韵，“研”墨流芳——基于研学旅游的老河口木版年画保护传承行为意愿_纯图版(1).pdf",
+    "bytes": 47604844,
+    "sha256": "d361b2ba002c9f5ba7f945b28e893a92fec3458fd447bfa7e3938fcd5a1d4cf2",
+    "award_status": "filename_claim_unverified",
+    "pages": 85,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R102",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】河口古韵，“研”墨流芳——基于研学旅游的老河口木版年画保护传承行为意愿_纯图版.pdf",
+    "bytes": 47604844,
+    "sha256": "d361b2ba002c9f5ba7f945b28e893a92fec3458fd447bfa7e3938fcd5a1d4cf2",
+    "award_status": "filename_claim_unverified",
+    "pages": 85,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R101"
+  },
+  {
+    "id": "R103",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】读书破万卷？实减出真知！——后“双减”时代家长教育内卷多元化影响因素及行为迁移调查研究(1).pdf",
+    "bytes": 2990032,
+    "sha256": "64932cb020d3ef7b1932ab8fe63729998dab42bd505a4f9168c2793affeb16f9",
+    "award_status": "filename_claim_unverified",
+    "pages": 67,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R104",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】读书破万卷？实减出真知！——后“双减”时代家长教育内卷多元化影响因素及行为迁移调查研究.pdf",
+    "bytes": 2990032,
+    "sha256": "64932cb020d3ef7b1932ab8fe63729998dab42bd505a4f9168c2793affeb16f9",
+    "award_status": "filename_claim_unverified",
+    "pages": 67,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R103"
+  },
+  {
+    "id": "R105",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】赤水清华酿玉浆，珠联璧合映华章——“联名热”背景下对新老品牌跨界产品消费意愿及影响因素研究(1).pdf",
+    "bytes": 54385058,
+    "sha256": "41f59a93c4df1d167c2f76373a4743d8616e277122d8ab2c5bf21ae90b9da0b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R106",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】赤水清华酿玉浆，珠联璧合映华章——“联名热”背景下对新老品牌跨界产品消费意愿及影响因素研究.pdf",
+    "bytes": 54385058,
+    "sha256": "41f59a93c4df1d167c2f76373a4743d8616e277122d8ab2c5bf21ae90b9da0b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R105"
+  },
+  {
+    "id": "R107",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】赤水清华酿玉浆，珠联璧合映华章——“联名热”背景下对新老品牌跨界产品消费意愿及影响因素研究_纯图版(1).pdf",
+    "bytes": 54385058,
+    "sha256": "41f59a93c4df1d167c2f76373a4743d8616e277122d8ab2c5bf21ae90b9da0b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R105"
+  },
+  {
+    "id": "R108",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国三】赤水清华酿玉浆，珠联璧合映华章——“联名热”背景下对新老品牌跨界产品消费意愿及影响因素研究_纯图版.pdf",
+    "bytes": 54385058,
+    "sha256": "41f59a93c4df1d167c2f76373a4743d8616e277122d8ab2c5bf21ae90b9da0b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R105"
+  },
+  {
+    "id": "R109",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国二】溯药食同源，饮“Young”生新茶——现制养生茶饮的需求分析与链路营销策略(1).pdf",
+    "bytes": 11248248,
+    "sha256": "ec81d46ce4f569df6e30def034881927c0bc6f8741b96f2e5127afc79667d983",
+    "award_status": "filename_claim_unverified",
+    "pages": 118,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R110",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国二】溯药食同源，饮“Young”生新茶——现制养生茶饮的需求分析与链路营销策略.pdf",
+    "bytes": 11248248,
+    "sha256": "ec81d46ce4f569df6e30def034881927c0bc6f8741b96f2e5127afc79667d983",
+    "award_status": "filename_claim_unverified",
+    "pages": 118,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R109"
+  },
+  {
+    "id": "R111",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国二】碧波荡漾画卷新，数字融通文旅韵——数字经济背景下“互联网+文旅”的统计调查研究（以桂林为例）(1).pdf",
+    "bytes": 10746186,
+    "sha256": "736ea1e14df3348621ee188e46edf222299ce9afd37bb4ba2b35085dec75e1a9",
+    "award_status": "filename_claim_unverified",
+    "pages": 122,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R112",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24国二】碧波荡漾画卷新，数字融通文旅韵——数字经济背景下“互联网+文旅”的统计调查研究（以桂林为例）.pdf",
+    "bytes": 10746186,
+    "sha256": "736ea1e14df3348621ee188e46edf222299ce9afd37bb4ba2b35085dec75e1a9",
+    "award_status": "filename_claim_unverified",
+    "pages": 122,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R111"
+  },
+  {
+    "id": "R113",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24研国一】踏遍春山不思还，与你相约梵净山——贵州梵净山旅游客源市场调研及对策研究.pdf",
+    "bytes": 9081590,
+    "sha256": "7add88694ee6074d8efb270701e05697113dd3954912470d4aba00ac31e3303c",
+    "award_status": "filename_claim_unverified",
+    "pages": 94,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R114",
+    "library": "reports",
+    "relative_path": "2024新（17篇）/【24研国三】云“播”见乡农，共“商”致富经——直播电商服务对农产品消费行为的影响研究.pdf",
+    "bytes": 151215702,
+    "sha256": "5ac701c650efc52cd59f1ad637817b2e415c27e248c7c9e3cf0dc54b0952f395",
+    "award_status": "filename_claim_unverified",
+    "pages": 121,
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "R115",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/2024研究生国三PPT：云“播”见乡农，共“商”致富经——直播电商服务对农产品的消费研究.pdf",
+    "bytes": 17254792,
+    "sha256": "4333b8f2efce9bee3a7fa27d916761e74a0a057789cd431ff347803c59d09a1a",
+    "award_status": "filename_claim_unverified",
+    "pages": 29,
+    "review_status": "pdf_slides_visual_read_small_text_limits"
+  },
+  {
+    "id": "R116",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/2024研究生国三PPT：农产品消费行为.pdf",
+    "bytes": 17254792,
+    "sha256": "4333b8f2efce9bee3a7fa27d916761e74a0a057789cd431ff347803c59d09a1a",
+    "award_status": "filename_claim_unverified",
+    "pages": 29,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R115"
+  },
+  {
+    "id": "R117",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/2024研究生国三：云“播”见乡农，共“商”致富经——直播电商服务对农产品的消费研究.pdf",
+    "bytes": 151215702,
+    "sha256": "5ac701c650efc52cd59f1ad637817b2e415c27e248c7c9e3cf0dc54b0952f395",
+    "award_status": "filename_claim_unverified",
+    "pages": 121,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R114"
+  },
+  {
+    "id": "R118",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/2024研究生国三：农产品消费行为.pdf",
+    "bytes": 151215702,
+    "sha256": "5ac701c650efc52cd59f1ad637817b2e415c27e248c7c9e3cf0dc54b0952f395",
+    "award_status": "filename_claim_unverified",
+    "pages": 121,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R114"
+  },
+  {
+    "id": "R119",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24国三】“千年底蕴，鸢都潍坊”——潍坊风筝体验式旅游可行性及发展策略探究_纯图版.pdf",
+    "bytes": 53171158,
+    "sha256": "0a46b6bb4cfc0d9a2c1832ca2e6da0a44a1dfc528fbc33c4cb671a5c6ef28afb",
+    "award_status": "filename_claim_unverified",
+    "pages": 91,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R095"
+  },
+  {
+    "id": "R120",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24国三】河口古韵，“研”墨流芳——基于研学旅游的老河口木版年画保护传承行为意愿_纯图版.pdf",
+    "bytes": 47604844,
+    "sha256": "d361b2ba002c9f5ba7f945b28e893a92fec3458fd447bfa7e3938fcd5a1d4cf2",
+    "award_status": "filename_claim_unverified",
+    "pages": 85,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R101"
+  },
+  {
+    "id": "R121",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24国三】赤水清华酿玉浆，珠联璧合映华章——“联名热”背景下对新老品牌跨界产品消费意愿及影响因素研究_纯图版.pdf",
+    "bytes": 54385058,
+    "sha256": "41f59a93c4df1d167c2f76373a4743d8616e277122d8ab2c5bf21ae90b9da0b6",
+    "award_status": "filename_claim_unverified",
+    "pages": 63,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R105"
+  },
+  {
+    "id": "R122",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24年国一】“轻”生活，“食”健康——关于长春市中式轻食消费偏好及其影响因素的调查分析 PPT.pptx",
+    "bytes": 8234530,
+    "sha256": "dcde2d4cab698549352f76e175542c7b5ba2d2968193ceb214bd14bd2e935755",
+    "award_status": "filename_claim_unverified",
+    "review_status": "slides_text_notes_and_visual_read"
+  },
+  {
+    "id": "R123",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24年国一】“轻”生活，“食”健康——关于长春市中式轻食消费偏好及其影响因素的调查分析.pdf",
+    "bytes": 4651595,
+    "sha256": "b5fce7aa58d05d9ba5723c62f21bde8b2065eea2fb31392e9bc43fed268cc0f1",
+    "award_status": "filename_claim_unverified",
+    "pages": 70,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R088"
+  },
+  {
+    "id": "R124",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24年国三】——读书破万卷？实减出真知！ 后“双减时代家长教育内卷多元化影响因素及行为迁移调查研究.pdf",
+    "bytes": 2990032,
+    "sha256": "64932cb020d3ef7b1932ab8fe63729998dab42bd505a4f9168c2793affeb16f9",
+    "award_status": "filename_claim_unverified",
+    "pages": 67,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R103"
+  },
+  {
+    "id": "R125",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24年国奖】“认真生活，偶尔快乐”——重庆市居民对福利彩票购买意愿的市场调查研究 ppt - 副本.pptx",
+    "bytes": 26011214,
+    "sha256": "93abfd8f7d9baf891a18f81f05b97120d750d48d0c1985621e7fe6d7f00f0d7d",
+    "award_status": "filename_claim_unverified",
+    "review_status": "slides_text_notes_and_visual_read"
+  },
+  {
+    "id": "R126",
+    "library": "reports",
+    "relative_path": "2024新（8篇）/【24年国奖】“认真生活，偶尔快乐”——重庆市居民对福利彩票购买意愿的市场调查研究.pdf",
+    "bytes": 9546874,
+    "sha256": "841fbad3af9fb533f275de092bf684624246815cf5f605cd296b8b9dbe72e6e3",
+    "award_status": "filename_claim_unverified",
+    "pages": 86,
+    "review_status": "indexed_not_claimed_read",
+    "duplicate_of": "R097"
+  },
+  {
+    "id": "V001",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​中央民族大学——社交媒体平台对正大企业的营销策略的互动机制调查研究​.mp4",
+    "bytes": 122239124,
+    "sha256": "7a3790f21c61b175143273f781f13cd13a9c9b44b9b79c7fde1a243153d26ec2",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_and_1fps_storyboard_read_audio_unreviewed"
+  },
+  {
+    "id": "V002",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​北京工商大学——基于营养学视角下恰恰小黄袋的消费偏好调查和产品设计研究​.mp4",
+    "bytes": 117900251,
+    "sha256": "2e08d608d179c22c46d80559fce383003c20bbae6346506ec3d5ee432acb8421",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_and_1fps_storyboard_read_audio_unreviewed"
+  },
+  {
+    "id": "V003",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​北方工业大学——北京市深加工类鸡肉半成品消费驱动与障碍分析​.mp4",
+    "bytes": 54695026,
+    "sha256": "77361e34853e54ebe02035893e1e5bdac107f772c1c16e271f9a2e08775eed0c",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_and_1fps_storyboard_read_audio_unreviewed"
+  },
+  {
+    "id": "V004",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​华东师范大学——“科创热的冷思考”​.mp4",
+    "bytes": 46887668,
+    "sha256": "e8d3a46150712a0ca3314664161f945de087fb3ab2a305ccd9982c0f5d505b07",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_and_1fps_storyboard_read_audio_unreviewed"
+  },
+  {
+    "id": "V005",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​南京邮电大学——南京市女大学生完美日记产品消费情况的调查研究​.mp4",
+    "bytes": 110686621,
+    "sha256": "041caa6c41778055a67d0c65a5c66709742e67d207a22f7f8782446354c0ce60",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_and_1fps_storyboard_read_audio_unreviewed"
+  },
+  {
+    "id": "V006",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​合肥工业大学——关于腾讯视频超前点播付费模式用户使用行为的调查​.mp4",
+    "bytes": 62857207,
+    "sha256": "b3d35ac80ac8f2ab85e382d0588db1e23609521f7e06e05121cf6be77c73db1c",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_read_visual_incomplete_audio_unreviewed"
+  },
+  {
+    "id": "V007",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​四川师范大学——成都市中青年群体主动健康现状探究​.mp4",
+    "bytes": 105046176,
+    "sha256": "167ea4d693244760b2fabd297eb84c736f0a7fba9cb5903e386175ec4d72ee5c",
+    "award_status": "filename_claim_unverified",
+    "review_status": "ocr_text_read_visual_incomplete_audio_unreviewed"
+  },
+  {
+    "id": "V008",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​安庆师范大学——关于高校大学生个人信息泄露现状及其法律保护的调研​.mp4",
+    "bytes": 57896183,
+    "sha256": "9cf9a96abe77e6f7e61edd543081997922971bf6a6e996cc643bf3f5f2f37d6b",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V009",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​安徽财经大学——银行员工阅读消费偏好的影响因素探究​.mp4",
+    "bytes": 111515396,
+    "sha256": "177dd962ab00dd92e17304ab2a8f66e01f02f369fe68b66455adcbd40a2efe51",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V010",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​河北经贸大学——石家庄市社区生鲜店消费现状及市场机会调查​.mp4",
+    "bytes": 112617872,
+    "sha256": "55c770c5e66b937758feec152a8eed64d272566de08217f648a485efe45d509d",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V011",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​浙江财经大学——疫情冲击下杭州市文创旅游助力乡村振兴的成效调查​.mp4",
+    "bytes": 62116657,
+    "sha256": "10f6d16f07c04d54ebf208c0bf83d648681690ee6d41353a72a9f7ac9c4863a2",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V012",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​重庆工商大学——在校大学生对工业4.0的认知现状以及能力规划影响因素分析​.mp4",
+    "bytes": 58447390,
+    "sha256": "ef16e382a95355d218d85644231435258b40f9ea6f638516f2a4725b02772b08",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V013",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​闽南师范大学——关于福建省某高校2019级新生志愿填报行为的大样本调查​.mp4",
+    "bytes": 57651179,
+    "sha256": "5cf9f1994f570aa40b71610d9af7dcdea3473c373481733dc38abb888cf6497f",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V014",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​阜阳师范大学——皖北地区垃圾分类问题深度探究 ​.mp4",
+    "bytes": 118343307,
+    "sha256": "5c3909fe406a2bc3574bd12330b15eb9d08a41d39e2e7c9795127c8fd7e07f7a",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V015",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​集美大学——厦门市母婴室市场前景分析​.mp4",
+    "bytes": 96705267,
+    "sha256": "ab660554214ed3b662ee0ef6bfc11daabd6c1b4cfd5b2bf387f8dd9224cd756d",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V016",
+    "library": "videos",
+    "relative_path": "​一等奖作品-​首都经济贸易大学——北京市年轻未婚女性婚恋意愿及其影响因素的调查研究​.mp4",
+    "bytes": 58928941,
+    "sha256": "b324ea4daffb5edc55bfe41a937c3b5b3582769be78552aad1406933f97f2c9f",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V017",
+    "library": "videos",
+    "relative_path": "“医在基层，益在身边.mp4",
+    "bytes": 236899920,
+    "sha256": "43185f2bed00f7cc6b934838ca728db45bf97c89544e5dbdfd1db63ab671d418",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V018",
+    "library": "videos",
+    "relative_path": "《北京市“95 后”炸鸡食品消费需求及品牌忠诚度研究》.mp4",
+    "bytes": 165105255,
+    "sha256": "dfba7b228babeb09f6b5b423ddbac3ffebab3c06bb21568a70cc9782cc13a7c2",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V019",
+    "library": "videos",
+    "relative_path": "【一等奖】天津财经大学-“小”鸡蛋，“大”乾坤——正大鸡蛋品牌健康调研.mp4",
+    "bytes": 104122171,
+    "sha256": "e5efe38cf4d2ca7f3644367eecdf7bfebd601c39fb7c155610e330d83922a91f",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V020",
+    "library": "videos",
+    "relative_path": "【一等奖】浙江财经大学-“教育千万条，择校第一条”.mp4",
+    "bytes": 56384281,
+    "sha256": "47817ff11c35a52a96b8f909bea39cb80a9479daaecdc41984f493b8ff4d5453",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V021",
+    "library": "videos",
+    "relative_path": "【一等奖】福建江夏学院-人生百年，立于幼学——基于福州民众和幼师对幼儿园安全问题的调查研究.mp4",
+    "bytes": 63335568,
+    "sha256": "62d2f75c8dfd71aedfd15ff1f2dbc30d2f08f37f52882beeac11e1c59ae1dc18",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V022",
+    "library": "videos",
+    "relative_path": "【国家三等奖】第十一届“正大杯”全国大学生市场调查与分析大赛优秀作品展示.mp4",
+    "bytes": 52510842,
+    "sha256": "172d4332a5ae8b27e94f8f81057d80cc34dc0ceb8479fad13bae77a5664549de",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V023",
+    "library": "videos",
+    "relative_path": "双栖而“旅”，诗意而“居”.mp4",
+    "bytes": 208101069,
+    "sha256": "5e9481d7224c693a8688f94a9179f763b5ee27212a4631d63c72d3082f5b557b",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V024",
+    "library": "videos",
+    "relative_path": "听书—下一片蓝海.mp4",
+    "bytes": 192953241,
+    "sha256": "0ca75414147aa0f0d6a34fa50ab0eacc86897ab8ad3993a063b0be0f661abd9e",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V025",
+    "library": "videos",
+    "relative_path": "抖出美好，音你非凡.mp4",
+    "bytes": 178804539,
+    "sha256": "7246aedac773bbf7360ff53919fc40c494c156064fd747ea116e038801f0c61e",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V026",
+    "library": "videos",
+    "relative_path": "掌上“名猪”自然香.mp4",
+    "bytes": 164651967,
+    "sha256": "322e96ff9e24237d84fe155629f7c5f9a5a84dafb2e2b8b6ecfbb920971a2b08",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  },
+  {
+    "id": "V027",
+    "library": "videos",
+    "relative_path": "简单生活不将就.mp4",
+    "bytes": 187105630,
+    "sha256": "0a94ad237ce4f04652a45a00bb1b14c98f4f62c9d912e64b8146bb695cb8ad25",
+    "award_status": "filename_claim_unverified",
+    "review_status": "indexed_not_claimed_read"
+  }
+]

@@ -1,0 +1,4 @@
+interface:
+  display_name: "正大杯市调全流程教练"
+  short_description: "面向本科生团队，逐步指导与审核选导师、选题、调查、分析、报告和答辩"
+  default_prompt: "使用 $zhengda-market-research 接手我们的正大杯项目，判断当前阶段并指导下一步。"
